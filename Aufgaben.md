@@ -1,1 +1,3 @@
 - [ ] Mustersatzung
+- [ ] Förderprogramme prüfen
+- [ ] 
