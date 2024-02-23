@@ -1,3 +1,5 @@
 - [ ] Mustersatzung
 - [ ] Förderprogramme prüfen
+- [ ] Mitglieder (3)
+- [ ] 
 - [ ] 
