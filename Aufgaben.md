@@ -1,5 +1,8 @@
 - [ ] Mustersatzung
 - [ ] Förderprogramme prüfen
+      - Kurzübersicht - Förderung - Jagdabgabe
+          [Förderrichtlinie Jagdabgabe.pdf](.attachments/a92906fb22e4f44a45fd6b01b9bc50505aa6341e.pdf) 
+      - [Jagdabgabe](https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/Thueringen/jagdwesen-jagdabgabe.html)
 - [ ] Mitglieder (3)
 - [ ] 
 - [ ] 
