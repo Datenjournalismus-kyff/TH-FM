@@ -11,12 +11,11 @@
   <p align="center">
     Short description
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://github.com/Datenjournalismus-kyff/Foerderverein/issues">Aufgaben</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://github.com/Datenjournalismus-kyff/Foerderverein/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 </p>
-
 
 ## Table of contents
 
@@ -28,7 +27,6 @@
 - [Creators](#creators)
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
-
 
 ## Quick start
 
