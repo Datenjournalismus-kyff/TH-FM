@@ -13,7 +13,7 @@
     <br>
     <a href="https://github.com/Datenjournalismus-kyff/Foerderverein/issues">Aufgaben</a>
     ·
-    <a href="https://github.com/Datenjournalismus-kyff/Foerderverein/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://github.com/Datenjournalismus-kyff/Foerderverein/issues/new?template=feature.md&labels=feature">Neue Aufgabe</a>
   </p>
 </p>
 
