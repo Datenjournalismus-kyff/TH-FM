@@ -5,4 +5,4 @@ Hier finden Vereinsmitglieder und Ehrenamtliche alle relevanten Informationen zu
 ## Inhalte
 - [Förderprogramme](foerderprogramme.md)
 - [Anleitungen](anleitungen.md)
-- [Beispielberichte](berichtesbeispiele.md)
+- [Beispielberichte](berichte_beispiele.md)
