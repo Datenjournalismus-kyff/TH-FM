@@ -39,6 +39,7 @@
 ## 4. Finanzübersicht
 
 ### Einnahmen
+
 | Posten | Betrag (€) |
 |--------|------------|
 | Eintritt / Spenden | 450,00 |
@@ -47,6 +48,7 @@
 | **Summe Einnahmen** | **2.150,00** |
 
 ### Ausgaben
+
 | Posten | Betrag (€) |
 |--------|------------|
 | Catering & Getränke | 700,00 |
