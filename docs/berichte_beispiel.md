@@ -1,4 +1,4 @@
-# Sommerfest der Jägerschaft Kyffhäuser e.V. 2024
+# Sommerfest 2024
 
 ## 1. Projektübersicht
 - **Projektname:** Sommerfest 2024  
