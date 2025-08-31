@@ -1,10 +1,10 @@
 # Sommerfest der Jägerschaft Kyffhäuser e.V. 2024
 
 ## 1. Projektübersicht
-- **Projektname:** Sommerfest der Jägerschaft Kyffhäuser e.V. 2024  
+- **Projektname:** Sommerfest 2024  
 - **Datum:** 15. Juni 2024  
 - **Ort:** Schützenhaus Kyffhäuser, Thüringen  
-- **Antragsteller / Veranstalter:** Jägerschaft Kyffhäuser e.V.  
+- **Antragsteller / Veranstalter:** Jägerschaft   
 - **Förderprogramm:** „Aktiv vor Ort“ – Thüringer Ehrenamtsstiftung  
 
 **Zielsetzung:**  
